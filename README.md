@@ -10,7 +10,7 @@ cd ConvergeX_Task
 3. Step 3: Verify Application Status
 - docker-compose ps
 
-# Step 4: Access the Application
+4. Step 4: Access the Application
 - Frontend (Vite React App): Open your browser and navigate to: http://localhost:3000
 Backend (Node.js API): The API is running at: http://localhost:8000
 
