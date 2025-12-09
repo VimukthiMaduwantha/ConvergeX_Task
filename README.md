@@ -12,7 +12,7 @@ cd ConvergeX_Task
 
 4. Step : Access the Application
 - Frontend (Vite React App): Open your browser and navigate to: http://localhost:3000
-Backend (Node.js API): The API is running at: http://localhost:8000
+- Backend (Node.js API): The API is running at: http://localhost:8000
 
 --------------------------------------------------------------------------------------
 
